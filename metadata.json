@@ -1,0 +1,6 @@
+{
+  "name": "AI Growth Assistant for Independent UK Pharmacies",
+  "description": "AI-powered business intelligence, local SEO, marketing planner, and automation assistant for independent community pharmacies in the UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
